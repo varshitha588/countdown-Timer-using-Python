@@ -1,3 +1,16 @@
+# ⏳ Countdown Timer using Python
+
+A simple and interactive **Countdown Timer** application built using Python.  
+It allows the user to input a time duration, and the timer counts down to zero,  
+displaying the remaining time dynamically.
+
+---
+
+## 📌 Features
+- ⏱ User-defined countdown duration
+- 🖥 Clean and simple console output
+- 🔔 Notification when the timer ends
+- 💻 Works on any system with Python installed
 
 ---
 
